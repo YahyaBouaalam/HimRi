@@ -1,4 +1,4 @@
-![image](https://github.com/YahyaBouaalam/HimRi/assets/75307405/197e040e-60b2-4b76-9023-283112b21a8d)# Himri - Your Personalized Recipe Finder
+# Himri - Your Personalized Recipe Finder
 
 Himri is an Android app built with Kotlin and Jetpack Compose that helps you discover delicious recipes tailored to your desired ingredients, nutritional macros (carbs, protein, and calories), and allergies. Whether you're a health enthusiast, a home chef, or just looking for culinary inspiration, Himri has you covered.
 
@@ -21,7 +21,8 @@ I worked on this project mainly to enhance my skills in Android App development,
 ## Screenshots
 
 - **Home Screen:**
-  ![image1](https://github.com/YahyaBouaalam/HimRi/assets/75307405/6cefaeb9-537d-46f3-96b8-2b6756eae95d)
+  <img src="https://github.com/YahyaBouaalam/HimRi/assets/75307405/6cefaeb9-537d-46f3-96b8-2b6756eae95d" width="200" alt="Screenshot 1">
+
 
 - **Query Results:**
   ![image3](https://github.com/YahyaBouaalam/HimRi/assets/75307405/9ae126ba-9ab3-4464-9ad2-0c2cd9ac3031)
